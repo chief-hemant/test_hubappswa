@@ -1,5 +1,5 @@
 pipeline {
-  agent {label "Built-In"}
+  agent {label "linux"}
   stages {
     stage ("Hello") {
       steps {
