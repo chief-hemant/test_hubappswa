@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: chief-hemant/test_hubappswa
 spec:
   type: other
-  lifecycle: unknown
-  owner: team-a
+  lifecycle: experimental
+  owner: "guest"
