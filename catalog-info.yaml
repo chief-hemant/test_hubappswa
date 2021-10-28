@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test_hubappswa
+  annotations:
+    github.com/project-slug: chief-hemant/test_hubappswa
+spec:
+  type: other
+  lifecycle: unknown
