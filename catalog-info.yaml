@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: chief-hemant/test_hubappswa
 spec:
-  type: other
+  type: website
   lifecycle: experimental
   owner: "guest"
