@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: test_hubappswa
   annotations:
-    github.com/project-slug: chief-hemant/test_hubappswa
+    jenkins.io/job-full-name: chief-hem-org-job/test_hubappswa
 spec:
   type: website
   lifecycle: experimental
