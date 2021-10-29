@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: test_hubappswa
+  name: test_hubappswa_catalog
   annotations:
     jenkins.io/job-full-name: chief-hem-org-job/test_hubappswa
 spec:
