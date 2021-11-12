@@ -4,6 +4,7 @@ metadata:
   name: test_hubappswa_catalog
   annotations:
     jenkins.io/job-full-name: chief-hemant/test_hubappswa
+    github.com/project-slug: chief-hemant/test_hubappswa
 spec:
   type: website
   lifecycle: experimental
